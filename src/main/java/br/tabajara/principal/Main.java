@@ -14,7 +14,7 @@ public class Main {
         Cliente cliente=new Cliente("André Gustavo","andre@mail.com");
         Produto p1=new Produto(1, "Computador", 4500.50f);
         Produto p2=new Produto(2,"Monitor",876.45f);
-        Produto p3=new Produto(3,"Mesa de Jantar",1256.25f);
+        Produto p3=new Produto(3,"Mesa de Jantar 02",1256.25f);
         
         Pedido pedido01=new Pedido(cliente);
         
